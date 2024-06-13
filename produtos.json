@@ -1,0 +1,29 @@
+[
+    {
+        "nome": "Mesa",
+        "tempo_maquinario": 2,
+        "materias_primas": [
+            ["Madeira", 4],
+            ["Parafuso", 10],
+            ["Lamina de Verniz", 1]
+        ]
+    },
+    {
+        "nome": "Cadeira",
+        "tempo_maquinario": 2,
+        "materias_primas": [
+            ["Metal", 3],
+            ["Parafuso", 5],
+            ["Suporte de Metal", 1]
+        ]
+    },
+    {
+        "nome": "Estante",
+        "tempo_maquinario": 3,
+        "materias_primas": [
+            ["Madeira", 6],
+            ["Parafuso", 5],
+            ["Lamina de Verniz", 2]
+        ]
+    }
+]

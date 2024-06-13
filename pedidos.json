@@ -1,0 +1,44 @@
+[
+    {
+        "numero_pedido": 1,
+        "data_entrega": "2024-06-15",
+        "itens": [
+            {
+                "nome": "Mesa",
+                "quantidade": 10
+            },
+            {
+                "nome": "Cadeira",
+                "quantidade": 5
+            }
+        ]
+    },
+    {
+        "numero_pedido": 2,
+        "data_entrega": "2024-06-20",
+        "itens": [
+            {
+                "nome": "Estante",
+                "quantidade": 20
+            }
+        ]
+    },
+    {
+        "numero_pedido": 3,
+        "data_entrega": "2024-06-18",
+        "itens": [
+            {
+                "nome": "Mesa",
+                "quantidade": 15
+            },
+            {
+                "nome": "Cadeira",
+                "quantidade": 10
+            },
+            {
+                "nome": "Estante",
+                "quantidade": 8
+            }
+        ]
+    }
+  ]
